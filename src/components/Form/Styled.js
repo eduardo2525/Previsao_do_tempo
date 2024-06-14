@@ -10,7 +10,7 @@ const Formulario = styled.form`
     justify-content: center;
     align-items: center;
     gap: 10px;
-    width: 400px;
+    width: 350px;
     height: 50px;
     border-radius: 10px;
 `
