@@ -3,10 +3,7 @@ import React from "react";
 import { IoLocationSharp } from "react-icons/io5";
 import { IoSearch } from "react-icons/io5";
 
-import EstiloForm from "./Styled";
-import Input from "./Input/styled";
-import Button from "./Button/Button";
-
+import { EstiloForm, Button, Input } from "./Styled"
 
 function Formulario() {
 
